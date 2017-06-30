@@ -9,7 +9,7 @@
 public class TestGit {
 
 	/**
-	 * 
+	 *  Ajout de commentaires pour tester mon second commit sur master
 	 */
 	public TestGit() {
 		// TODO Auto-generated constructor stub
