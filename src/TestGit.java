@@ -9,7 +9,7 @@
 public class TestGit {
 
 	/**
-	 *  Ajout de commentaires pour tester 1er commit sur testBranche
+	 *  Test Commit Branche jma919
 	 */
 	public TestGit() {
 		// TODO Auto-generated constructor stub
